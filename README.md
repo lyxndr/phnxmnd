@@ -1,4 +1,4 @@
-# phnxmnd.github.io
+# phnxmnd
 
 Hello, welcome to PhnxMnd.
 Currently under development.
